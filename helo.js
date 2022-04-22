@@ -1,1 +1,1 @@
-console.log("i love this game.")
+console.log("i love a this game.")
